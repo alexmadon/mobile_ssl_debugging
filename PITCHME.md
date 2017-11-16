@@ -22,7 +22,7 @@
 
 @title[On Android: iptables+mitmproxy -T+pptpd]
 
-![Image-Absolute](assets/alex_proxy.svg)
+![Image-Absolute](assets/alex_proxy.svg.png)
 
 ---
 
