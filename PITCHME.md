@@ -1,5 +1,38 @@
 @title[Introduction]
 
+#### Alex <span class="gold">Madon</span> into
+#### capturing Android SSL traffic
+#### 2017/11/16
+
+---
+
+@title[SSL]
+
+![Image-Absolute](assets/ssl_protocol_alex.png)
+
+---
+
+@title[On Desktop]
+
+#  wireshark + private key
+#  wireshark + SSLKEYLOGFILE
+
+---
+
+@title[On Android: iptables+mitmproxy -T+pptpd]
+
+![Image-Absolute](assets/alex_proxy.svg)
+
+---
+
+@title[On Android]
+
+
+
+---
+
+@title[Introduction]
+
 # Git<span class="gold">Pitch</span>
 
 #### Markdown Presentations For Everyone on Git.*
