@@ -1,6 +1,6 @@
 @title[Introduction]
 
-#### Alex <span class="gold">Madon</span> into
+#### Alex <span class="gold">Madon</span>
 #### capturing Android SSL traffic
 #### 2017/11/16
 
@@ -14,8 +14,8 @@
 
 @title[On Desktop]
 
-#  wireshark + private key
-#  wireshark + SSLKEYLOGFILE
+###  wireshark + private key
+###  wireshark + SSLKEYLOGFILE
 
 ---
 
