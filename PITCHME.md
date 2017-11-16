@@ -33,13 +33,16 @@
 
 ```shell
 apt-get install pptpd
-```
-#### Edit /etc/pptpd.conf and add:
-```text
+
+Edit /etc/pptpd.conf and add:
+
 localip 5.9.136.58
 remoteip 10.68.68.1-62
 ```
-@[2](localip)
+
+@[1](install )
+@[5](Linux server)
+@[6](Android IP)
 
 ---
 
